@@ -679,6 +679,10 @@ body {
 
 /* Handphone responsive */
 @media (min-width: 320px) and (max-width: 767px) {
+    body {
+    overflow-x: hidden;
+    }
+    
     /* navbar */
     .navbar {
         height: 9vh;
@@ -842,7 +846,7 @@ body {
     }
 
     .handphone-footer {
-        margin-top: 90px;
+        margin-top: 60px;
         height: 24vh;
     }
     /* handphone end */
