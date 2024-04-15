@@ -680,9 +680,9 @@ body {
 /* Handphone responsive */
 @media (min-width: 320px) and (max-width: 767px) {
     body {
-    overflow-x: hidden;
+        overflow-x: hidden;
     }
-    
+
     /* navbar */
     .navbar {
         height: 9vh;
@@ -946,4 +946,3 @@ body {
     }
     /* mission end */
 }
-
