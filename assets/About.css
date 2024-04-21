@@ -142,6 +142,7 @@ body {
     color: #1C1C1B;
     font-size: 17px;
     font-weight: 600;
+    text-decoration: none;
 }
 
 .home .home-kanan .home-strengths {
@@ -298,7 +299,7 @@ body {
 }
 
 .handphone .handphone-selection .handphone-frame .handphone-frame-text button a {
-    text-decoration-color: #1C1C1B;
+    text-decoration: none;
     color: #1C1C1B;
     font-family: "Open Sans", sans-serif;
     font-weight: 700;
@@ -356,7 +357,7 @@ body {
 }
 
 .handphone .handphone-selection .handphone-frame1 .handphone-frame-text button a {
-    text-decoration-color: #1C1C1B;
+    text-decoration: none;
     color: #1C1C1B;
     font-family: "Open Sans", sans-serif;
     font-weight: 700;
