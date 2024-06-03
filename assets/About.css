@@ -447,6 +447,11 @@ body {
         transform: translateY(7%);
     }
 
+    .home-awal video {
+        position: relative;
+        z-index: 99;
+    }
+
     .home .home-awal {
         text-align: center;
     }
